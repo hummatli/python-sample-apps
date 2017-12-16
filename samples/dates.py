@@ -12,6 +12,6 @@ def main():
     today = datetime.now()
     print "Datetime today : ", today
 
-
+    print "%10s %2d" % ("some string", 1)
 if __name__ == "__main__":
     main()
