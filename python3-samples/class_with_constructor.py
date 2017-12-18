@@ -18,3 +18,5 @@ for r in f.series():
     if r > 100: break    
     print(r, end=' ')
 
+a = 1
+a = "  "
